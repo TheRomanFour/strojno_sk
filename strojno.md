@@ -1,5 +1,4 @@
-# sk-learn-examples
-
+# Strojno skripta
 
 ## Image manipulation
 Download image using curl
